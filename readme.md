@@ -13,6 +13,14 @@ It combines data cleaning, statistical analysis, and dashboard visualization to 
 
 ---
 
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="images/Dashboard.png" width="700" alt="COVID-19 Dashboard Overview">
+</p>
+
+---
+
 ## 🧠 Key Features
 
 ✅ Data cleaning and preprocessing using **Pandas & NumPy**  
@@ -38,6 +46,7 @@ It combines data cleaning, statistical analysis, and dashboard visualization to 
 
 COVID-19-Global-Data-Analytics-Visualization/
 │
+├── images/
 ├── datasets/
 │ ├── cleaned_covid_data.csv
 | ├── covid_19_india.csv
@@ -50,6 +59,23 @@ COVID-19-Global-Data-Analytics-Visualization/
 |
 ├── README.md
 └── requirements.txt
+---
+
+## 🖼️ Visual Insights
+
+Here are a few sample visualizations generated during analysis:
+
+<p align="center">
+  <img src="images/Top 5 Affected States in India.png" width="600" alt="Top 5 Affected States in India">
+</p>
+
+<p align="center">
+  <img src="images/Male and Female Vaccination ratio.png" width="600" alt="Male and Female Vaccination Ratio">
+</p>
+
+<p align="center">
+  <img src="images/Top 10 states with most number of deaths states in India.png" width="600" alt="Top 10 States with Most Deaths">
+</p>
 
 
 ---
