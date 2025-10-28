@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🌍 COVID-19 Global Data Analytics & Visualization
 
 In-depth COVID-19 data analysis and visualization using **Python (Pandas, Matplotlib)** and **Tableau**.  
@@ -107,4 +107,3 @@ COVID-19-Global-Data-Analytics-Visualization/
 
 - Data sourced from **World Health Organization (WHO)** and **Our World in Data**  
 - Inspired by open-source COVID-19 analytics and visualization projects  
-"""
